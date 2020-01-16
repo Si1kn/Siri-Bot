@@ -5,7 +5,8 @@ A Custom Discord Siri Bot!
 
 Create a botconfig.json put this in the json.
 
-```{
+```
+{
     "token": ""
 }
 ```
